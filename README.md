@@ -28,8 +28,6 @@
 <a href=https://www.sqlite.org/><img src=https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original.svg alt="sqlite" title="SQLite" width="45" height="45"/></a>
 <a href=https://geany.org/><img src=https://geany.org/static/img/geany.svg alt="geany" title="Geany" width="45" height="45"/></a>
 <a href=https://github.com/><img src=https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg alt="github" title="GitHub" width="45" height="45"/></a>
-<a href=https://www.heroku.com/><img src=https://github.com/devicons/devicon/blob/master/icons/heroku/heroku-plain.svg alt="heroku" title="Heroku" width="45" height="45"/></a>
-
 </p>
 
 <hr>
