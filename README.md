@@ -7,7 +7,7 @@
 <p align="center">
 <h3>What am I currently working on?</h3>
 <h5> >> Lifeguard Logger - a website backend (and simple, but not-production-ready frontend) for public swimming pool staff use. Designed for reporting issues to management, as well as keeping track of, saving, and viewing chemical, temperature, and attendance data. Modules currently in use include Flask, sqlite3, openpyxl, and plotly.</h5>
-<h5> >> An unnamed Python and Flask system for validating posession of a email address of cell phone number. Designed to accept any email address and most major United States cell phone providers, this system will send an email with a validation code to the user, which when entered within five minutes of the send time, will pass. An incorrect or expired validation code will fail.</h5>
+<h5> >> Flask-Validate - a Python and Flask system for validating posession of a email address of cell phone number. Designed to accept any email address and most major United States cell phone providers, this system will send an email with a validation code to the user, which when entered within five minutes of the send time, will pass. An incorrect or expired validation code will fail.</h5>
 <h5> >> Surviving High School! It's my Junior year and amongst other coursework, I'm taking computer Science classes through a local college to further my knowledge of computer science. It is my hope and intention to pursue a degree in computer science in College, but I'm not there just yet!</h5>
 
 <br>
