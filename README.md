@@ -7,6 +7,7 @@
 <p align="center">
 <h3>What am I currently working on?</h3>
 <h5> >> Lifeguard Logger - a website backend (and simple, but not-production-ready frontend) for public swimming pool staff use. Designed for reporting issues to management, as well as keeping track of, saving, and viewing chemical, temperature, and attendance data. Modules currently in use include Flask, sqlite3, openpyxl, and plotly.</h5>
+<h5> >> Python PDF Merger - a console-based application that has additional PDF manipulation functionality (such as might be found in paid software) including merging, encrypting and decrypting, stamping/watermarking (work in progress), and reducing PDF size (work in progress). I will eventually rename this project, as it was named for the first functionality I added.
 <h5> >> Surviving High School! It's my Junior year and amongst other coursework, I'm taking computer Science classes through a local college to further my knowledge of computer science. It is my hope and intention to pursue a degree in computer science in College, but I'm not there just yet!</h5>
 
 <br>
