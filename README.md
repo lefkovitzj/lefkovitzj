@@ -2,14 +2,6 @@
 
 <h3 align="center">Who am I?</h3>
 <h5 align="center">Hi there! My name's AaronTook.<br><br>I'm a high school Senior who loves computer programming and software development!<br>I particularly enjoy making practical and useful applications both for the web and as desktop applications.</h5>
-<br>
-
-<p align="center">
-<h3>What am I currently working on?</h3>
-<h5> >> Python PDF Merger - A console-based application that has additional PDF manipulation functionality (such as might be found in paid software) including merging, encrypting, decrypting, and reducing PDF size. This project is currently on version 1.3.2, with a related project in the works that will replace any future versions with both a GUI and console-based application providing similar functionality.
-<h5> >> Surviving High School! It's my Senior year and amongst other coursework, and throughout High School I have taken computer Science classes through a local college to further my knowledge of computer science. It is my hope and intention to pursue a degree in computer science in College, but I'm not there just yet!</h5>
-
-<br>
 <p align="center"><p align="center">  </p>  </p>
 <br>
 
@@ -49,6 +41,6 @@
 
 <p align="center" style="font-size:30px;">
   It is continually my hope and goal to become a better and more effective programmer.<br><br>
-  I'm always open to opportunities to collaborate and would love the help of talented programmers!<br><br>
+  I'm always open to opportunities to collaborate and would love the help of other programmers!<br><br>
   Feel free to reach out to me with any questions, requests, or ideas for future projects!
 </p>
