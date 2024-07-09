@@ -1,7 +1,7 @@
 <h1 align="center">Hello, world!</h1>
 
 <h3 align="center">Who am I?</h3>
-<h5 align="center">Hi there! My name's Joseph<br><br>I'm a rising college sophomore who loves computer programming and software development!<br>I particularly enjoy making practical and useful applications both for the web and as desktop applications.</h5>
+<h5 align="center">Hi there! My name's Joseph!<br><br>I'm a rising college sophomore who loves computer programming and software development!<br>I particularly enjoy making practical and useful applications both for the web and as desktop applications.</h5>
 <p align="center"><p align="center">  </p>  </p>
 <br>
 
