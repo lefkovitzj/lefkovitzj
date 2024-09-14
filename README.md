@@ -1,7 +1,7 @@
 <h1 align="center">Hello, world!</h1>
 
 <h3 align="center">Who am I?</h3>
-<h5 align="center">Hi there! My name's Joseph!<br><br>I'm a college sophomore who loves computer programming and software development!<br>I particularly enjoy making practical and useful applications both for the web and as desktop applications.</h5>
+<h5 align="center">Hi there! My name is Joseph!<br><br>I am a college sophomore who loves computer programming and software development!<br>I particularly enjoy making practical and useful applications both for the web and as desktop applications.</h5>
 <p align="center"><p align="center">  </p>  </p>
 <br>
 
@@ -41,6 +41,6 @@
 
 <p align="center" style="font-size:30px;">
   It is continually my hope and goal to become a better and more effective programmer.<br><br>
-  I'm always open to opportunities to collaborate and would love the help of other programmers!<br><br>
+  I am always open to opportunities to collaborate and would love the help of other programmers!<br><br>
   Feel free to reach out to me with any questions, requests, or ideas for future projects!
 </p>
