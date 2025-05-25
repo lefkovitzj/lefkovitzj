@@ -6,7 +6,7 @@
   <br><br>
   A junior studying Computer Science at the University of Dayton
   <br><br>
-  A Computer Science Intern at NexSens Technologies.
+  A Computer Science Intern at NexSens Technology.
 </h5>
 <p align="center">
   <br>I particularly enjoy making practical and useful applications. It is continually my hope and goal to become a better and more effective programmer. I am always open to opportunities to collaborate and would love the help of other programmers! Feel free to reach out to me with any questions, requests, or ideas for future projects!
