@@ -31,7 +31,7 @@
 <p align="center" style="font-size:25px;">
   <a href=https://cplusplus.com/ target="_blank"><img src=https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg alt="cplusplus" title="C++" width="45" height="45"/></a>
   <a href=https://java.org/ target="_blank"><img src=https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg alt="java" title="Java" width="45" height="45"/></a>
-  <a href=https://flask.palletsprojects.com/ target="_blank"><img src=https://github.com/pallets/flask/blob/main/docs/_static/shortcut-icon.png alt="flask" title="Flask Web Framework" width="45" height="45"/></a>
+  <a href=https://flask.palletsprojects.com/ target="_blank"><img src=https://raw.githubusercontent.com/pallets/flask/refs/heads/main/docs/_static/flask-icon.svg alt="flask" title="Flask Web Framework" width="45" height="45"/></a>
   <a href=https://numpy.org/ target="_blank"><img src=https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original.svg alt="numpy" title="Numpy" width="45" height="45"/></a>
   <a href=https://pandas.pydata.org/ target="_blank"><img src=https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original.svg alt="pandas" title="Pandas" width="45" height="45"/></a>
   <a href=https://www.raspberrypi.org/ target="_blank"><img src=https://github.com/devicons/devicon/blob/master/icons/raspberrypi/raspberrypi-original.svg alt="raspberry pi" title="Raspberry Pi" width="45" height="45"/></a>
