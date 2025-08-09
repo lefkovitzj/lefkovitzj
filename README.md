@@ -22,7 +22,7 @@
   <a href=https://css3.com/ target="_blank"><img src=https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg alt="css3" title="CSS3" width="45" height="45"/></a>
   <a href=https://www.php.net// target="_blank"><img src=https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg alt="PHP" title="PHP" width="45" height="45"/></a>
   <a href=https://javascript.com/ target="_blank"><img src=https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg alt="javascript" title="JavaScript" width="45" height="45"/></a>
-  <a href=https://geany.org/ target="_blank"><img src=https://geany.org/static/img/geany.svg alt="geany" title="Geany" width="45" height="45"/></a>
+  <a href=https://geany.org/ target="_blank"><img src="https://avatars.githubusercontent.com/u/1108795" alt="geany" title="Geany" width="45" height="45"/></a>
   <a href=https://visualstudio.microsoft.com/ target="_blank"><img src=https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg alt="vscode" title="Visual Studio Code" width="45" height="45"/></a>
 </p>
 
