@@ -2,7 +2,7 @@
 
 <h3 align="center">My name is Joseph Lefkovitz!<br></h3>
 <h5 align="center">
-  A junior studying Computer Science at the University of Dayton.
+  A rising senior studying Computer Science at the University of Dayton.
   <br><br>
   An Associate of Science in Computer Science graduate from Sinclair Community College.
   <br><br>
