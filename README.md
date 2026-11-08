@@ -15,7 +15,7 @@ Leading emerging technology professionals at UDayton ACM.
 
 <i>Sinclair Community College</i>
   Associate of Science in Computer Science
-    May 2024
+    May 2025
 
 <b>$ ls -R work</b>
 <i>JPMorgan Chase</i>
